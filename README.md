@@ -1,2 +1,1 @@
-# MFA
-Everything you need to know about MFA security
+# UI for wiki.vulnproof.dev
