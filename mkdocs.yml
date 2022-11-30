@@ -1,5 +1,6 @@
 site_name: vulnproof
 theme:
+    logo: assets/logo2.png
     favicon: images/favicon.ico
     features:
         - navigation.top
@@ -18,7 +19,6 @@ theme:
             bug: octicons/bug-16
             example: octicons/beaker-16
             quote: octicons/quote-16
-        logo: material/book-open-blank-variant
     name: material
     palette:
         primary: black

@@ -6,7 +6,7 @@ hide:
 
 ## 🎯 Mission Statement
 
-![Image title](assets/logo.png){ align=right width=250 loading=lazy }
+![Image title](assets/logo.png){ align=right width=200 loading=lazy }
 
 Application security has become a global risk as organizations are finding it challenging to secure their software infrastructure.
 
