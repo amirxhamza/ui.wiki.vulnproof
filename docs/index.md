@@ -6,7 +6,7 @@ hide:
 
 ## 🎯 Mission Statement
 
-![Image title](assets/logo.png){ align=right width=150 loading=lazy }
+![Image title](assets/logo.png){ align=right width=250 loading=lazy }
 
 Application security has become a global risk as organizations are finding it challenging to secure their software infrastructure.
 
@@ -18,6 +18,6 @@ The mission of this wiki is to `accelerate the transition to secure software dev
 
 ## 🚀 Follow us
 
-<a href="https://twitter.com/VulnProof" target="_blank"><img src="assets/twitter.png" width=47 style="margin:10px;"/></a>
-<a href="https://www.youtube.com/@VulnProof" target="_blank"><img src="assets/youtube.png" width=49 style="margin:10px;"/></a>
+<a href="https://twitter.com/vulnproof" target="_blank"><img src="assets/twitter.png" width=47 style="margin:10px;"/></a>
+<a href="https://www.youtube.com/@vulnproof" target="_blank"><img src="assets/youtube.png" width=49 style="margin:10px;"/></a>
 <a href="https://discord.gg/H4Fqh8GJMn" target="_blank"><img src="assets/discord.png" width=50 style="margin:10px;"/></a>
