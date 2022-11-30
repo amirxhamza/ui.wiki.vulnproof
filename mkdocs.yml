@@ -1,8 +1,5 @@
-site_name: VulnProof
-
-# logo-color: #0BA533
+site_name: vulnproof
 theme:
-    logo: assets/logo.png
     favicon: images/favicon.ico
     features:
         - navigation.top
@@ -21,6 +18,7 @@ theme:
             bug: octicons/bug-16
             example: octicons/beaker-16
             quote: octicons/quote-16
+        logo: material/book-open-blank-variant
     name: material
     palette:
         primary: black
@@ -41,7 +39,6 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
-    # - tables
     - def_list
     - attr_list
     - pymdownx.emoji:
@@ -63,11 +60,11 @@ extra:
     generator: false
     social:
         - icon: fontawesome/brands/twitter
-          link: /
+          link: https://twitter.com/vulnproof
         - icon: fontawesome/brands/youtube
-          link: /
+          link: https://www.youtube.com/@vulnproof
         - icon: fontawesome/brands/discord
-          link: /
-copyright: Copyright &copy; 2022 VulnProof
+          link: https://discord.gg/H4Fqh8GJMn
+copyright: Copyright &copy; 2022 vulnproof
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css

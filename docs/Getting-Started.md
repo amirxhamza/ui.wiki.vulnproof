@@ -12,6 +12,6 @@ The information on this site is mostly derived from two reputable sources, <a hr
 
 Each topic has a checklist that contains security considerations that are recommended but are not required. If you are considering using a checklist for your project, be advised that this should not be a rule to follow. The severity level associated with each item on the checklist represents its importance. It is up to you to decide which one is more appropriate for your project. If you need any clarification, please reach out.
 
-## 🤝 Contribute to VulnProof
+## 🤝 Contribute to vulnproof
 
 We would appreciate any contributions that enable us to reach our goal. The option to contribute to this wiki will be made available soon. Stay tuned!
