@@ -6,7 +6,7 @@ hide:
 
 # About the Author
 
-### 👋 Hello السلام علیکم,
+<div style="font-size:1.05rem;">👋 Hello السلام علیکم,</div>
 
 <img src="../assets/profile.jpg" width=210 align="right" style="border-radius:50%; border: 5px solid white;"/>
 
