@@ -3,6 +3,8 @@ theme:
     logo: assets/logo2.png
     favicon: images/favicon.ico
     features:
+        - toc.integrate
+        - toc.follow
         - navigation.top
         - search.share
         - toc.integrate 
