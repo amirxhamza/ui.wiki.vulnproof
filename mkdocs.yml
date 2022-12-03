@@ -1,4 +1,5 @@
 site_name: vulnproof
+site_url: https://wiki.vulnproof.dev
 theme:
     logo: assets/logo2.png
     favicon: images/favicon.ico
@@ -73,8 +74,4 @@ copyright: Copyright &copy; 2022 vulnproof
 extra_css:
     - stylesheets/extra.css
 plugins:
-  - social:
-        cards_color:
-            fill: "#0FF1CE" 
-            text: "#FFFFFF"
-        cards_font: Roboto
+  - social
