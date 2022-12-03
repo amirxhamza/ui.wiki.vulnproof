@@ -5,7 +5,7 @@ hide:
 
 #Types of Authentication Factors
 
-This section covers the different types of authentication factors that are available and their security considerations. Each type if divided into the following categories:
+This section covers the different types of authentication factors that are available and their security considerations. Each type is divided into the following categories:
 
 | Factor Definition  | Types                                                 | Example                                                                                                                                                                                                                                                                                  |
 | ------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
