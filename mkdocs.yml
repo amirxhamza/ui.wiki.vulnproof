@@ -1,5 +1,5 @@
 site_name: vulnproof
-site_url: https://wiki.vulnproof.dev
+# site_url: https://wiki.vulnproof.dev
 theme:
     logo: assets/logo2.png
     favicon: images/favicon.ico
@@ -73,5 +73,5 @@ extra:
 copyright: Copyright &copy; 2022 vulnproof
 extra_css:
     - stylesheets/extra.css
-plugins:
-  - social
+# plugins:
+#   - social
